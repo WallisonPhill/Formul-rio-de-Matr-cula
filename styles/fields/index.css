@@ -1,5 +1,5 @@
-@import url(/styles/fields/inputs.css);
-@import url(/styles/fields/droparea.css);
-@import url(/styles/fields/radio.css);
-@import url(/styles/fields/checkbox.css);
-@import url(/styles/fields/buttons.css);
+@import url(./styles/fields/inputs.css);
+@import url(./styles/fields/droparea.css);
+@import url(./styles/fields/radio.css);
+@import url(./styles/fields/checkbox.css);
+@import url(./styles/fields/buttons.css);
